@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ipykernel
 dotenv
 langchain
@@ -8,14 +7,10 @@ langchain_core
 langgraph
 youtube_search_python
 youtube_search
-=======
-ipykernel
-dotenv
-langchain
-langchain_community
+wikipedia
+lxml
+langchain-tavily
+yfinance
+ddgs
+structlog
 langchain_groq
-langchain_core
-langgraph
-youtube_search_python
-youtube_search
->>>>>>> 7d0842950ed7795e8540add81ea8bcf0c4d99108
